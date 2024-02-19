@@ -1,4 +1,6 @@
-### Hi there 👋
+# 서민주
+
+## Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holsimcjv)](https://solved.ac/holsimcjv/)
 
@@ -16,3 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Project
+
+### TEAM PROJECT
+
+#### SSAFY 1학기 관통 프로젝트 :: 영화 추천 사이트 Collec.T
+
+1학기 프로젝트 최우수상 수상<br>
+[링크](https://github.com/sminju1009/Collec.T)
+
+#### SSAFY 2학기 공통 프로젝트 :: 수어쉬워
