@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 [링크](https://github.com/sminju1009/Collec.T)
 
 #### SSAFY 2학기 공통 프로젝트 :: 수어쉬워
+[링크](https://github.com/OnlyTeamLeaderIsE/Sueoswiwo)
