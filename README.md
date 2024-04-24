@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 
 2학기 공통 프로젝트 3등 수상<br>
 [링크](https://github.com/OnlyTeamLeaderIsE/Sueoswiwo)
+
+#### SSAFY 2학기 특화 프로젝트 :: KEAD
+[링크](https://github.com/sminju1009/KEAD)
