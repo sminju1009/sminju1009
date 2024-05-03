@@ -4,6 +4,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holsimcjv)](https://solved.ac/holsimcjv/)
 
+### 알고리즘 관련 Repository
+#### 백준, 프로그래머스, SWEA
+[링크](https://github.com/sminju1009/Baekjoon)
+#### Leetcode
+[링크](https://github.com/sminju1009/LeetCode)
+#### 알고리즘 상세 풀이 기록
+[링크](https://github.com/sminju1009/algorithm_md)
+
 <!--
 **sminju1009/sminju1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
