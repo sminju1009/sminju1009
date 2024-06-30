@@ -52,7 +52,9 @@
 
 ## 🗨️ Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holsimcjv)](https://solved.ac/holsimcjv/)
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holsimcjv)](https://solved.ac/holsimcjv/) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=java_star59)](https://solved.ac/java_star59/) |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Python                                                                                                            | Java                                                                                                                  |
 
 ### 알고리즘 관련 Repository
 
