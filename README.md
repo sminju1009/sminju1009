@@ -11,6 +11,7 @@
 
 입니다.
 
+🏢 **KEPCO(Korea Electric Power Corporation) (2025.12~) **
 📘 **Samsung Software Academy For Youth(SSAFY) 10th (2023.07 ~ 2024.06)**
 
 [![Minju's GitHub stats](https://github-readme-stats.vercel.app/api?username=sminju1009)](https://github.com/anuraghazra/github-readme-stats)
